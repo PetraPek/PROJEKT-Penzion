@@ -1,6 +1,6 @@
 # Penzion u vody
 
-Tentokrát jsme jako podklad dostali kompletně nakódovaný web o pěti stránkách. Naším úkolem je udělat z něho Eleventy projekt, z částí stránky společných pro celý web udělat šablonu, ve stránkách samotných nechat pouze obsah a vše nastavit tak, aby výsledkem byl opět hotový a funkční web. Tento web pak vystav na Netlify.
+Tentokrát jsme jako podklad dostali kompletně nakódovaný web o pěti stránkách. Naším úkolem bylo udělat z něho Eleventy projekt, z částí stránky společných pro celý web udělat šablonu, ve stránkách samotných nechat pouze obsah a vše nastavit tak, aby výsledkem byl opět hotový a funkční web. Tento web jsme pak vystavili na Netlify.
 
 ![Ukázka výsledku](ukazka-vysledku.jpg)
 
